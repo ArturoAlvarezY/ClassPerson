@@ -16,6 +16,12 @@ public final class App {
     firstPerson.printingPerson();
     secondPerson.printingPerson();
     
+    SecondStep shipi = new SecondStep("Luis", "Alvarez", 1994, "V22650400", 'H', "Venezuela");
+    SecondStep calvin = new SecondStep("Carlos", "Alvarez", 1998, "V28312196", 'H', "Venezuela");
+
+    shipi.getingPersonExtends();
+    calvin.getingPersonExtends();
+
     
     }
 
