@@ -55,14 +55,12 @@ public class Person {
     }
 
 
-    public String printingPerson(){
+    public void printingPerson(){
         
         System.out.println(name);
         System.out.println(lastName);
         System.out.println(borningYear);
         System.out.println(dni);
-
-        return printingPerson() ;
     }
     
     
