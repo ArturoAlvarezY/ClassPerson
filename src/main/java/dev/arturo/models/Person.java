@@ -39,6 +39,6 @@ public class Person {
         System.out.println(borningYear);
         System.out.println(dni);
     }
-    
-    
 }
+
+
