@@ -19,10 +19,10 @@ public final class App {
     SecondStep shipi = new SecondStep("Luis", "Alvarez", 1994, "V22650400", 'H', "Venezuela");
     SecondStep calvin = new SecondStep("Carlos", "Alvarez", 1998, "V28312196", 'H', "Venezuela");
 
+    ///My heroes <3!
+
     shipi.getingPersonExtends();
     calvin.getingPersonExtends();
-
-    
     }
 
 }
