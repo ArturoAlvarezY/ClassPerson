@@ -11,39 +11,16 @@ public class Person {
         return name;
     }
 
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-
     public String getLastName() {
         return lastName;
     }
-
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
 
     public Integer getBorningYear() {
         return borningYear;
     }
 
-
-    public void setBorningYear(Integer borningYear) {
-        this.borningYear = borningYear;
-    }
-
-
     public String getDni() {
         return dni;
-    }
-
-
-    public void setDni(String dni) {
-        this.dni = dni;
     }
 
     
